@@ -135,24 +135,21 @@ streamlit run app.py
 - Internet Usage, Mobile Phone Usage
 - Tourism Inbound/Outbound
 - Population (Total, Urban, Age groups)
-- Business Tax Rate, Days/Hours to Start Business, Lending Interest
-
+- Busi
+- ness Tax Rate, Days/Hours to Start Business, Lending Interest
 ---
 
 ## 💡 What I Learned
-
 - How to build a **complete ML pipeline** from raw messy data to a deployed web app
 - Why **preprocessing order matters** — impute before log transform, not after
 - How **pickle version pinning** is critical for reproducible deployments
 - How to use `@st.cache_data` and `@st.cache_resource` correctly in Streamlit
 - Practical difference between **K-Means, DBSCAN, Hierarchical, and GMM** clustering
-
 ---
 
 ## 👤 Author
-
-**Jagadeesh** — Electronics & Communication Engineering Graduate  
-Targeting Data Science / ML Engineer roles  
+**JAGDISH BIRADAR** — Electronics & Communication Engineering Graduate  
+Targeting Data Science / ML Engineer roles.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JAGGU--528-black?logo=github)](https://github.com/JAGGU-528)
 [![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?logo=streamlit)](https://global-development-jpa3hswfotyh3mxnkocgfg.streamlit.app/)
